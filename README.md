@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mahirmulani12@gmail.com**
 
-- ⚡ Fun fact **1.🚀 I love building DIY electronics & robotics projects! 2.🎬 I've watched all Marvel movies & series (Ask me anything!) 3.🖌️ I enjoy designing posters, banners, and UI layouts 4.📝 I run a tech blog sharing my projects & coding insights 5.🤖 I dream of working on AI, IoT, or Embedded Systems in the future 6.🎮 Sometimes, I code just for fun—like making random mini-games.**
+- ⚡ Fun fact **<br>1.🚀 I love building DIY electronics & robotics projects! <br>2.🎬 I've watched all Marvel movies & series (Ask me anything!)<br> 3.🖌️ I enjoy designing posters, banners, and UI layouts<br> 4.📝 I run a tech blog sharing my projects & coding insights <br> 5.🤖 I dream of working on AI, IoT, or Embedded Systems in the future <br> 6.🎮 Sometimes, I code just for fun—like making random mini-games.<br>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
