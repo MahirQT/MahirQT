@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahir Mulani</h1>
 
-<div class="tenor-gif-embed" data-postid="14889389" data-share-method="host" data-aspect-ratio="2.42424" data-width="100%"><a href="https://tenor.com/view/tony-stark-iron-man-rdj-robert-downey-jr-gif-14889389">Tony Stark Iron Man GIF</a>from <a href="https://tenor.com/search/tony+stark-gifs">Tony Stark GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/baDzB.gif" height="400px" width="300px">
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
