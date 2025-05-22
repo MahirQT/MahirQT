@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<div class="tenor-gif-embed" data-postid="26267939" data-share-method="host" data-aspect-ratio="1" data-width="100%" style = "position : realtive; right:10px" ><a href="https://tenor.com/view/spider-man-no-way-home-marvel-studios-spider-man-marvel-future-revolution-marvel-future-fight-gif-26267939">Spider Man No Way Home Marvel Studios Sticker</a>from <a href="https://tenor.com/search/spider+man+no+way+home-stickers">Spider Man No Way Home Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirqt&label=Profile%20views&color=0e75b6&style=flat" alt="mahirqt" /> </p>
 
 - 🔭 I’m currently working on **frontend development**
