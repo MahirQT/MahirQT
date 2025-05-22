@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahir Mulani</h1>
 
-<img src="https://tenor.com/baDzB.gif" height="400px" width="300px">
-
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirqt&label=Profile%20views&color=0e75b6&style=flat" alt="mahirqt" /> </p>
