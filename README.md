@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahir Mulani</h1>
+<div align="right">
+  <img src="https://media.tenor.com/bWnEB.gif" width="300" alt="Spider-Man swinging GIF">
+</div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<div align="right">
-  <img src="https://media3.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="150" alt="Spider-Man swinging GIF">
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirqt&label=Profile%20views&color=0e75b6&style=flat" alt="mahirqt" /> </p>
 
