@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahir Mulani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="right">
-  <img src="https://media3.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="150" alt="Spider-Man swinging GIF">
+  <img src="https://media3.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="150" style="Xscale(-1)" alt="Spider-Man swinging GIF">
 </div>
 
 
