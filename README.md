@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahir Mulani</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 <div align="right">
   <img src="https://media.tenor.com/bWnEB.gif" width="300" alt="Spider-Man swinging GIF">
 </div>
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 
